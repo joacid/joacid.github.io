@@ -1,10 +1,10 @@
 # site settings
-title: joacid :-)
-subtitle: "Jo acid in the house"
+title: Njord
+subtitle: "Not a god, just a guy who lives in the north of the France..."
 email:
 description: Collections
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "joacid.github.io" # the base hostname & protocol for your site
+url: "njord-fr.github.io" # the base hostname & protocol for your site
 author: Jo
 # street_address: 1234 Somewhere Road
 # city: Nashville
