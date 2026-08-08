@@ -1,11 +1,11 @@
 # site settings
-title: Njord
-subtitle: "Not a god, just a guy who lives in the north of the France..."
+title: Joachill
+subtitle: "Chill French"
 email:
 description: Collections
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "njord-fr.github.io" # the base hostname & protocol for your site
-author: Jo
+url: "joachill.github.io" # the base hostname & protocol for your site
+author: Joachill
 # street_address: 1234 Somewhere Road
 # city: Nashville
 # state: TN
